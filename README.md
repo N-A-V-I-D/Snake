@@ -1,7 +1,10 @@
 Navid Chowdhury Project 1 Snake Game
-Started: August 26, 9pm 
+
+Started: August 26, 9pm
+
 Finished: August 28, 1am
-Video Tutorial Used: Java snake game 🐍
+
+Video Tutorial Used: https://www.youtube.com/watch?v=bI6e6qjJ8JQ
 
 10:09pm
 First problem I encountered was that I couldn’t figure out why the optional grid wasn’t showing up. All I got was a black screen. But eventually I realized on the video, the youtuber had a black background with light gray grid lines. On my end, I had a black background but black grid lines so I wouldn’t see it until I changed the background color to white.
